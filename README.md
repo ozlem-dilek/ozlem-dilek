@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Özlem!
+# Hi there, I'm Özlem!👾
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=2500&pause=1000&color=B3B3FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Data+Science;Deep+Learning;Artificial+Intelligence)](https://git.io/typing-svg)
@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩🏼‍💻 About Me
 
 <div align="justify">
 
