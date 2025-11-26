@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Özlem!
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Artificial+Intelligence;Deep+Learning;Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=2500&pause=1000&color=B3B3FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Data+Science;Deep+Learning;Artificial+Intelligence)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ozlem-dilek&color=blueviolet&style=flat-square)](https://github.com/ozlem-dilek)
 [![GitHub followers](https://img.shields.io/github/followers/ozlem-dilek?style=social)](https://github.com/ozlem-dilek)
