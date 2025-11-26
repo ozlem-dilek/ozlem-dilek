@@ -2,9 +2,8 @@
   
 # 👋 Hello, I'm Özlem!
 
-### 🤖 Computer Engineer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+and+Machine+Learning+Enthusiast;Deep+Learning+and+Computer+Vision;Edge+AI+and+LLM+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Artificial+Intelligence;Deep+Learning;Data+Science)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ozlem-dilek&color=blueviolet&style=flat-square)](https://github.com/ozlem-dilek)
 [![GitHub followers](https://img.shields.io/github/followers/ozlem-dilek?style=social)](https://github.com/ozlem-dilek)
@@ -39,9 +38,6 @@ I aim to develop myself especially in the fields of **artificial intelligence**,
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozlem-dilek&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ozlem-dilek&theme=radical&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozlem-dilek&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -109,13 +105,5 @@ I aim to develop myself especially in the fields of **artificial intelligence**,
 <div align="center">
 
 [![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge)](mailto:acarozlemdilek@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ozlem-dilek/ozlem-dilek/output/github-contribution-grid-snake.svg)
 
 </div>
