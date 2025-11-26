@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 👩🏼‍💻 About Me
 
 <div align="justify">
@@ -22,7 +20,6 @@ I aim to develop myself especially in the fields of **artificial intelligence**,
 
 </div>
 
----
 
 ## 🏆 GitHub Trophy
 
@@ -32,7 +29,6 @@ I aim to develop myself especially in the fields of **artificial intelligence**,
 
 </div>
 
----
 
 ## 📊 GitHub Statistics
 
@@ -45,7 +41,6 @@ I aim to develop myself especially in the fields of **artificial intelligence**,
 
 </div>
 
----
 
 ## 🛠️ Technologies and Tools
 
@@ -77,7 +72,6 @@ I aim to develop myself especially in the fields of **artificial intelligence**,
 
 </div>
 
----
 
 ## 🎯 Areas of Focus
 
@@ -90,7 +84,6 @@ I aim to develop myself especially in the fields of **artificial intelligence**,
 
 </div>
 
----
 
 ## 📫 Contact
 
